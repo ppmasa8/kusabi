@@ -29,7 +29,7 @@ Or install it yourself as:
 
     $ gem install kusabi
 
-## Example
+## Usage Example
 
 "アンノウン".to_cuneiform => 𒀀𒅘𒁖𒌋𒅘
 
