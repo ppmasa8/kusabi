@@ -1,6 +1,8 @@
 # Kusabi
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/kusabi`. To experiment with that code, run `bin/console` for an interactive prompt.
+This gem allows you to convert alphabetic or Japanese characters (hiragana and katakana) into cuneiform.
+
+このgemはアルファベットやひらがな・かたかなを楔形文字に変換できるようにするものです。
 
 Warning: As this gem is under development, major changes may be made to the master branch.
 
