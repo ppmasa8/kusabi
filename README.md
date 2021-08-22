@@ -1,10 +1,17 @@
 # Kusabi
 
+English 
+
 This gem allows you to convert alphabetic or Japanese characters (hiragana and katakana) into cuneiform.
+
+Warning: As this gem is under development, major changes may be made to the master branch.
+
+日本語
 
 このgemはアルファベットやひらがな・かたかなを楔形文字に変換できるようにするものです。
 
-Warning: As this gem is under development, major changes may be made to the master branch.
+このgemは開発中のため、予告なく大きな変更が実装されることがあります。
+
 
 ## Installation
 
