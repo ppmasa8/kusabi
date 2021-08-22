@@ -33,7 +33,7 @@ Or install it yourself as:
 
 "アンノウン".to_cuneiform => 𒀀𒅘𒁖𒌋𒅘
 
-"アンノウン：＊".to_cuneiform => 𒀀𒅘𒁖𒌋𒅘:*
+"アンノウン：*".to_cuneiform => 𒀀𒅘𒁖𒌋𒅘:*
 
 ## Contributing
 
