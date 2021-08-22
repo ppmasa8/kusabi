@@ -10,7 +10,7 @@ Warning: As this gem is under development, major changes may be made to the mast
 
 このgemはアルファベットやひらがな・かたかなを楔形文字に変換できるようにするものです。
 
-このgemは開発中のため、予告なく大きな変更が実装されることがあります。
+開発中のため、予告なく大きな変更が実装されることがあります。
 
 
 ## Installation
