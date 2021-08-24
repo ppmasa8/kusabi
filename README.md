@@ -2,7 +2,7 @@
 
 English 
 
-This gem allows you to convert alphabetic or Japanese characters (hiragana and katakana) into cuneiform.
+This gem allows you to convert alphabet(unimplemented) or Japanese characters (hiragana and katakana) into cuneiform.
 
 Warning: As this gem is under development, major changes may be made to the master branch.
 
