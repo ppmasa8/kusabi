@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["ppmasa8"]
   spec.email         = ["kiyokiyopip56@gmail.com"]
 
-  spec.summary       = "This gem allows you to convert alphabetic or Japanese characters (hiragana and katakana) into cuneiform."
-  spec.description   = "This gem allows you to convert alphabetic or Japanese characters (hiragana and katakana) into cuneiform."
+  spec.summary       = "This gem allows you to convert alphabet or Japanese characters (hiragana and katakana) into cuneiform."
+  spec.description   = "This gem allows you to convert alphabet or Japanese characters (hiragana and katakana) into cuneiform."
   spec.homepage      = "https://github.com/ppmasa8/kusabi.git"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
