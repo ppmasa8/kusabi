@@ -31,9 +31,13 @@ Or install it yourself as:
 
 ## Usage Example
 
+"Unknown".to_cuneiform => 𒌋𒉡𒆠𒉡𒃰𒉾𒉡
+
+"!Unk@no#wn".to_cuneiform => !𒌋𒉡𒆠@𒉡𒃰#𒉾𒉡
+
 "アンノウン".to_cuneiform => 𒀀𒅘𒁖𒌋𒅘
 
-"アンノウン：".to_cuneiform => 𒀀𒅘𒁖𒌋𒅘:
+"アンノウン?".to_cuneiform => 𒀀𒅘𒁖𒌋𒅘?
 
 ## Contributing
 

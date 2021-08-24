@@ -9,15 +9,15 @@ RSpec.describe Kusabi do
       expect(str.to_cuneiform).to eql("𒀀𒅘𒁖𒌋𒅘")
     end
     it "English translate to cuneiform" do
-      str = "Abs"
-      expect(str.to_cuneiform).to eql("𒀀𒁍𒋢")
+      str = "Unknown"
+      expect(str.to_cuneiform).to eql("𒌋𒉡𒆠𒉡𒃰𒉾𒉡")
     end
   end
 
   context "Abnormal scenarios" do
     it "When str include exception strings, escape it" do
-      str = "あいう英語"
-      expect(str.to_cuneiform).to eql("𒀀𒄿𒌋英語")
+      str = "!Unk@no#wn"
+      expect(str.to_cuneiform).to eql("!𒌋𒉡𒆠@𒉡𒃰#𒉾𒉡")
     end
   end
 end
