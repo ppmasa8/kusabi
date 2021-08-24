@@ -8,6 +8,10 @@ RSpec.describe Kusabi do
       str = "アンノウン"
       expect(str.to_cuneiform).to eql("𒀀𒅘𒁖𒌋𒅘")
     end
+    it "English translate to cuneiform" do
+      str = "Abs"
+      expect(str.to_cuneiform).to eql("𒀀𒁍𒋢")
+    end
   end
 
   context "Abnormal scenarios" do
