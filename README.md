@@ -1,5 +1,7 @@
 # Kusabi
 
+RubyGems: https://rubygems.org/gems/kusabi
+
 English 
 
 This gem allows you to convert alphabet(unimplemented) or Japanese characters (hiragana and katakana) into cuneiform.
