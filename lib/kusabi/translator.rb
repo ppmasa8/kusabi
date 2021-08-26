@@ -1,7 +1,6 @@
 
   class String
     def to_cuneiform
-      # TODO add alphabet
       hash = {
         # Alphabet
         a: ['12000'], b: ['1204D'], c: ['122EB'], d: ['12072'], e: ['1208A'], f: ['12137'], g: ['12116'],
